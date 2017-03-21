@@ -1,0 +1,28 @@
+{
+  "name": "bsk-demo",
+  "version": "1.0.0",
+  "description": "Tests FSE",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renekabagamba/bsk-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renekabagamba/bsk-demo/issues"
+  },
+  "homepage": "https://github.com/renekabagamba/bsk-demo#readme",
+  "dependencies": {
+    "expect": "^1.20.2"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "grunt": "^1.0.1",
+    "grunt-mocha-test": "^0.13.2",
+    "mocha": "^3.2.0"
+  }
+}
